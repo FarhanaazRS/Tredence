@@ -134,7 +134,7 @@ To contribute or modify the project, it's recommended to fork it first.
 1. Click the **Fork** button at the top right of this repository.
 2. Clone your forked repository:
    ```bash
-   git clone https://github.com/mohammedsalick/canva-tredence.git
+   git clone https://github.com/FarhanaazRS/tredence.git
    cd canva-tredence
    ```
 
